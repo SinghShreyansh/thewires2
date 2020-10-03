@@ -1,14 +1,10 @@
 ### Hi there 👋 I am Arnav
 
-<!-- Please don't remove this: Grab your social icons from https://github.com/carlsednaoui/gitsocial -->
-[![ Twitter][1.1]][1]
-[![Github][6.1]][6]
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?&logo=Github&logoColor=wh)](https://twitter.com/potatoandchipa)
+[![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/thewires2)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/arnav-bagchi/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:arnavbagchi04@gmail.com)
 
-[1.1]: http://i.imgur.com/tXSoThF.png 
-[6.1]: http://i.imgur.com/0o48UoR.png 
-
-[1]: http://www.twitter.com/potatoandchipa
-[6]: http://www.github.com/thewires2
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thewires2&layout=compact&hide=html&theme=blue-green" alt="thewires2" />
 
